@@ -14,7 +14,7 @@
 
 # YOU HAVE TO ENTER DESCRIPTION OF YOUR TASK (AND IT SHOULD NOT BE LESS THAN 500 WORDS)
 
-# Automate Reports with Python
+# Automate Reports generation
 Learn how to automate report generation with Python in this article. Explore the process from environment setup to data preparation, report creation, customization, error handling, and security. Discover Python's versatility and efficiency in transforming the traditional way of preparing reports, saving time, and enhan
   Irene Mikhailouskaya ·  5 min read · Updated may 2024 ·  6.6K · General Python Tutorials
 
@@ -31,9 +31,6 @@ In this article, we will develop how we can automate reports by using Python, th
 
 Setting Up the Environment
 Before starting report automation, it is very important to create a proper development environment. Install Python and necessary libraries like pandas for data manipulation and matplotlib for visualization of data. 
-
-# Install Python libraries
-!pip install pandas matplotlib
 
 # Import necessary libraries
 import pandas as pd
